@@ -10,9 +10,10 @@ jQuery, HTML, CSS, Underscore, Underscore templates, comeon game api, jquery moc
 
 1. Clone repository.
 2. cd to `root folder`.
-3. Run your favourite webserver. I tested on `python -m simpleHttpServer 8000`.
-4. Go to `http://localhost:8000` in your browser.
-5. Login with one of the following users
+3. Run `bower install`.
+4. Run your favourite webserver. I tested on `python -m simpleHttpServer 8000`.
+5. Go to `http://localhost:8000` in your browser.
+6. Login with one of the following users
 
 ````
 username: rebecka

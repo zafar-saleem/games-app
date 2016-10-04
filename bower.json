@@ -1,0 +1,17 @@
+{
+    "name": "games-app",
+    "version": "1.0.0",
+    "homepage": "https://github.com/zafar-saleem/games-app",
+    "authors": [
+        "Zafar Saleem"
+    ],
+    "description": "Games App",
+    "moduleType": [
+        "amd"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "underscore": null,
+    }
+}
+
