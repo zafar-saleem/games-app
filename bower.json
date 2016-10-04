@@ -11,7 +11,7 @@
     ],
     "license": "MIT",
     "dependencies": {
-        "underscore": null,
+        "underscore": null
     }
 }
 
